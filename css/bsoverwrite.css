@@ -1,0 +1,10 @@
+.black-text {
+    color: #000000;
+}
+
+.col-md {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
